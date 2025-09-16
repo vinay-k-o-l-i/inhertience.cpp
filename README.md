@@ -1,0 +1,1 @@
+# inhertience.cpp
