@@ -13,7 +13,7 @@ To implement and understand the concepts of **Inheritance in C++** including **S
 
 ## Algorithm
 
-### Experiment 14A – Single Inheritance (Book Example)
+### Experiment – Single Inheritance (Book Example)
 
 1. Start the program.  
 2. Create a base class `Book` with data members and a function.  
@@ -23,7 +23,7 @@ To implement and understand the concepts of **Inheritance in C++** including **S
 6. Display book details.  
 7. End the program.  
 
-### Experiment 14B – Multiple Inheritance (Book Example)
+### Experiment  – Multiple Inheritance (Book Example)
 
 1. Start the program.  
 2. Create a base class `Book` with a member variable for title.  
@@ -33,7 +33,7 @@ To implement and understand the concepts of **Inheritance in C++** including **S
 6. Accept values from the user and display complete book details.  
 7. End the program.  
 
-### Experiment 14C – Multilevel Inheritance (Animal Example)
+### Experiment – Multilevel Inheritance (Animal Example)
 
 1. Start the program.  
 2. Create a base class `Animal` with a function `breathe()`.  
@@ -43,7 +43,7 @@ To implement and understand the concepts of **Inheritance in C++** including **S
 6. Display details.  
 7. End the program.  
 
-### Experiment 14D – Hierarchical Inheritance (Book Example)
+### Experiment – Hierarchical Inheritance (Book Example)
 
 1. Start the program.  
 2. Create a base class `Book` with a function to show title.  
